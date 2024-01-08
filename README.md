@@ -1,2 +1,4 @@
 # gitlearn
-learning git commands
+learning commands 
+this is my github repository 
+git 
